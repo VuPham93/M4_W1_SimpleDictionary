@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>Simple Dictionary</h1>
-<form action="dictionary?translate">
+<form action="dictionary">
     <input name="input" type="text">
     <button type="submit">Translate</button>
 </form>
